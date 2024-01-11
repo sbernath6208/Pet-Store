@@ -1,0 +1,1 @@
+next step is to formulate the query that we want to perform against the Type table. We want to select both fields and will explicitly name those fields in our query statement. We also want to order the results returned in type description order since we will be using the returned list to bind to the combo box and the ordered description will be what the user select

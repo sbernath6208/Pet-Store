@@ -1,0 +1,93 @@
+C# final db data
+browseProducts
+crate 49.99
+Big enough for a medium sized dog but also works on
+a cat lorem ipsum etc 
+
+leash 9.99 
+This anti-choke leash will help protect your dog's neck but also
+has the durability of lorem ipsum etc
+
+kitty treats 14.99
+Healthy kitty treats made from real chicken lorem ipsum
+
+sales
+dog food 9.99
+Tasty liver and chicken dog food made from real lorem ipsum etc
+
+shock collar 14.99
+Shock collars are one of the leading methods
+to keep you safe from unwanted lawsuits lorem ipsum etc
+
+aquarium 499.99
+This world class aquarium for your reptilian friends lorem ipsum etc
+
+pets
+Dog id 2 
+Labrador 
+Goldy
+age 4
+1499.99
+Pure bred will liven up your life lorem ipsum etc 
+
+dog 
+poodle id 7
+Curly
+age 2
+1399.99
+One of the smartest dogs you'll ever meet Lorem ipsum etc
+
+Cat
+Tabby id 8
+Garfield
+age 5
+599.99
+Friendly and outgoing Lorem Ipsum etc
+
+Anole
+Gecko id 9
+age 1
+59.99
+Smelly, likes flies Lorem Ipsum etc.
+
+
+Hamster
+Huey id 10 
+age 2 
+79.99 
+Great pet for a kid to learn personal responsibility
+Lorem Ipsum etc
+
+user: sBernath
+pwd: aq1AQ!sw2SW@de3DE#fr4FR$ 
+
+status 1 is Available
+2 is Unavailable
+3 is Logged In
+4 is Not Logged In
+5 is Shipping
+6 is Ship Failure 
+
+select orderNo from dbo.Orders
+where username = @1
+
+/*
+ * Credit Card Type	Credit Card Number	Valid
+American Express	378282246310005	    Yes
+American Express	371449635398431	    Yes
+American Express	378734493671000	    Yes
+American Express	378282246310033	    No
+Discover	        6011111111111117	Yes
+Discover	        6011000990139424	Yes
+Discover	        6011934315435339	No
+Discover	        6011934315435341	Yes
+Mastercard	        5435048476899367	Yes
+Mastercard	        5435048476899364	No
+Mastercard	        5555555555554444	Yes
+Mastercard	        5105105105105100	Yes
+Visa	            4388576018402626	No
+Visa	            4246345689049834	No
+Visa	            4388576018410707	Yes
+Visa	            4716776386962205	Yes
+Visa	            4111111111111111	Yes
+*/

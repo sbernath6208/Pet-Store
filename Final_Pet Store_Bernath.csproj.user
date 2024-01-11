@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addPet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="browseAllProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CCError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="createCreditCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="createNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="diffShippingAddr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="getPet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginErr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderConfirmed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="orderDetailsHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="petConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PetShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reviewCartDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShoppingCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShoppingCart2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateCreditCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userOrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
